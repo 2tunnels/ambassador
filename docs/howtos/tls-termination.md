@@ -31,7 +31,7 @@ This guide requires you have the following installed:
 ## Create a Self-Signed Certificate
 
 OpenSSL is a tool that allows us to create self-signed certificates for opening
-a TLS encrypted connection. The `openssl` command below will create a 
+a TLS encrypted connection. The `openssl` command below will
 create a certificate and private key pair that Ambassador can use for TLS
 termination.
 
